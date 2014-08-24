@@ -1,4 +1,4 @@
 myrepo
 ======
 
-My new repo
+My new reposotory
